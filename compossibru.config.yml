@@ -1,0 +1,23 @@
+Version: 1
+Styles:
+  - bootstrap/dist/css/bootstrap.min.css
+Routes:
+  Home:
+    Route: /
+    Layout: layouts/3-column.ejs
+    Containers:
+      left:
+        - compossibru-widget-vue-example
+      middle:
+        - compossibru-widget-vue-example
+      right:
+        - compossibru-widget-vue-example
+
+  Foo:
+    Route: /foo
+    Layout: layouts/2-column.ejs
+    Containers:
+      left:
+        - compossibru-widget-vue-example
+      right:
+        - compossibru-widget-vue-example
