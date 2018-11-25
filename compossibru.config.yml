@@ -21,3 +21,12 @@ Routes:
         - compossibru-widget-vue-example
       right:
         - compossibru-widget-jquery-example
+
+  Bar:
+    Route: /bar
+    Layout: layouts/2-column.ejs
+    Containers:
+      left:
+        - compossibru-widget-vue-example
+      right:
+        - compossibru-widget-react-example
