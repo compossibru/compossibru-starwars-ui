@@ -7,9 +7,9 @@ Routes:
     Layout: layouts/3-column.ejs
     Containers:
       left:
-        - compossibru-widget-vue-example
-      middle:
         - compossibru-widget-jquery-example
+      middle:
+        - compossibru-widget-react-example
       right:
         - compossibru-widget-vue-example
 
