@@ -9,7 +9,7 @@ Routes:
       left:
         - compossibru-widget-vue-example
       middle:
-        - compossibru-widget-vue-example
+        - compossibru-widget-jquery-example
       right:
         - compossibru-widget-vue-example
 
@@ -20,4 +20,4 @@ Routes:
       left:
         - compossibru-widget-vue-example
       right:
-        - compossibru-widget-vue-example
+        - compossibru-widget-jquery-example
