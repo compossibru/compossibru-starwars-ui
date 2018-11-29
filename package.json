@@ -15,9 +15,9 @@
         }
     ],
     "dependencies": {
+        "@compossibru/compossibru": "github:compossibru/compossibru",
         "@zeit/next-css": "1.0.1",
         "bootstrap": "4.1.3",
-        "compossibru": "github:compossibru/compossibru",
         "compossibru-widget-jquery-example": "github:compossibru/compossibru-widget-jquery-example",
         "compossibru-widget-react-example": "github:compossibru/compossibru-widget-react-example",
         "compossibru-widget-vue-example": "github:compossibru/compossibru-widget-vue-example"
